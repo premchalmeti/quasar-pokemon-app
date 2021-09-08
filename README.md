@@ -1,3 +1,3 @@
-# Quasar App
+# Pokemon App
 
-> WIP
+> contains list and details view with pagination and serach filters
