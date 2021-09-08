@@ -10,7 +10,7 @@
     >
       <q-icon name="menu" />
     </q-btn>
-    <img src="assets/pokemon-dark.png" alt="Pokemon logo" width="120px" height="100px" @click="gotoHome()" class="clickable">
+    <img src="statics/pokemon-dark.png" alt="Pokemon logo" width="120px" height="100px" @click="gotoHome()" class="clickable">
     </div>
     <!-- <q-layout-header>
       <q-toolbar
