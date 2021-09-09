@@ -7,7 +7,7 @@
         </div>
         <div class="col-2"></div>
       </div>
-      <div class="q-mx-xl">
+      <div>
         <div class="min-container">
           <div class="text-center">
             <q-spinner v-if="loading" :size="50"/>

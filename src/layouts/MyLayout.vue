@@ -46,7 +46,7 @@
       >
         <q-list-header>
           <div class="text-right">
-            <q-btn outline round icon="arrow_back" @click="leftDrawerOpen=false"></q-btn>
+            <q-btn class="q-mt-sm q-mr-md"  flat round icon="arrow_back" @click="leftDrawerOpen=false"></q-btn>
           </div>
         </q-list-header>
         <q-item @click.native="gotoHome()">
